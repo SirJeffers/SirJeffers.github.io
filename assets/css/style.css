@@ -1,0 +1,14 @@
+a, a:hover, a:active, a:visited { color:white; }
+
+#footer li a i {
+    font-size: 32px;
+    -webkit-transition: .5s all ease;
+	-moz-transition: .5s all ease;
+	transition: .5s all ease;
+}
+
+#footer li:hover a i {
+    font-size: 42px;
+    margin-top: -25px;
+    margin-bottom: -25px;
+}
